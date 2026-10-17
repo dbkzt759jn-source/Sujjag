@@ -1,0 +1,57 @@
+{
+  "app_name": "Sujjag",
+  "tagline": "A platform for every scholarship on earth",
+  "founder": "Fiza Irshad - Shahpur Chakar",
+  "total_countries": 197,
+  "filters": {
+    "university_types": ["National", "International", "State", "Provincial", "Private", "Public"],
+    "levels": ["School", "College", "ADP", "Undergraduate", "Masters", "PhD", "Fellowship"]
+  },
+  "scholarships": [
+    {
+      "id": "SCH001",
+      "name": "Fulbright Foreign Student Program",
+      "country": "USA",
+      "type": "National",
+      "level": "Masters, PhD",
+      "funding": "Fully Funded",
+      "link": "https://foreign.fulbrightonline.org"
+    },
+    {
+      "id": "SCH002",
+      "name": "Chevening Scholarship",
+      "country": "UK",
+      "type": "National",
+      "level": "Masters",
+      "funding": "Fully Funded",
+      "link": "https://www.chevening.org"
+    },
+    {
+      "id": "SCH003",
+      "name": "Sindh Provincial Merit Scholarship",
+      "country": "Pakistan",
+      "type": "Provincial",
+      "level": "School, College, ADP, Undergraduate",
+      "funding": "Partially Funded",
+      "link": "https://sindh.gov.pk"
+    },
+    {
+      "id": "SCH004",
+      "name": "HEC Overseas Scholarship",
+      "country": "Pakistan",
+      "type": "National",
+      "level": "Masters, PhD",
+      "funding": "Fully Funded",
+      "link": "https://hec.gov.pk"
+    },
+    {
+      "id": "SCH005",
+      "name": "Turkiye Burslari",
+      "country": "Turkey",
+      "type": "National",
+      "level": "Undergraduate, Masters, PhD",
+      "funding": "Fully Funded",
+      "link": "https://turkiyeburslari.gov.tr"
+    }
+  ]
+}
