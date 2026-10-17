@@ -1,0 +1,2873 @@
+{
+ "meta": {
+  "title": "Global Scholarships Directory",
+  "version": "2026-10-17",
+  "countries": 197,
+  "scholarships": 103,
+  "levels_key": {
+   "S": "School",
+   "C": "College",
+   "A": "ADP/Associate",
+   "U": "Undergraduate",
+   "M": "Masters",
+   "P": "PhD",
+   "F": "Fellowship"
+  },
+  "provider_types": {
+   "N": "national",
+   "P": "provincial_state",
+   "I": "international",
+   "U": "private_university",
+   "D": "private_donor"
+  },
+  "funding_types": {
+   "FF": "fully_funded",
+   "ST": "stipend_tuition_support",
+   "PA": "partial",
+   "FP": "full_or_partial",
+   "NM": "need_based_merit",
+   "FX": "fixed_award",
+   "VA": "varies_check"
+  },
+  "warning": "Names, coverage and eligibility come from general knowledge and are NOT live-verified, except entries in live_status_checks (searched 17 Oct 2026). Deadlines and amounts change every cycle; confirm on the official site. Countries with no national scheme listed rely on the global schemes in 'scholarships'."
+ },
+ "countries": [
+  {
+   "id": 1,
+   "country": "Afghanistan",
+   "region": "South Asia",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 2,
+   "country": "Bangladesh",
+   "region": "South Asia",
+   "national_government": [
+    "Prime Minister's Education Trust scholarships",
+    "Govt stipends via Ministry of Education"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "BRAC University / North South University merit awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 3,
+   "country": "Bhutan",
+   "region": "South Asia",
+   "national_government": [
+    "Royal Government of Bhutan scholarships (domestic & outbound)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 4,
+   "country": "India",
+   "region": "South Asia",
+   "national_government": [
+    "ICCR",
+    "Study in India (SII)"
+   ],
+   "state_provincial": [
+    "State govt schemes (mostly domestic)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "University awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 5,
+   "country": "Maldives",
+   "region": "South Asia",
+   "national_government": [
+    "Govt higher-education support via Ministry of Higher Education"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Maldives National University awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 6,
+   "country": "Nepal",
+   "region": "South Asia",
+   "national_government": [
+    "Nepal Government scholarships (Ministry of Education)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Kathmandu University merit awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 7,
+   "country": "Pakistan",
+   "region": "South Asia",
+   "national_government": [
+    "HEC Need-Based Scholarship",
+    "Ehsaas Undergraduate",
+    "Indigenous PhD (verify current status)"
+   ],
+   "state_provincial": [
+    "Punjab: PEEF",
+    "Balochistan: BEEF",
+    "Sindh/KP provincial merit & endowment schemes (verify)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "LUMS National Outreach Programme",
+    "Aga Khan University",
+    "IBA need-based aid"
+   ],
+   "levels": [
+    "School",
+    "College",
+    "ADP/Associate",
+    "Undergraduate",
+    "Masters",
+    "PhD",
+    "Fellowship"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 8,
+   "country": "Sri Lanka",
+   "region": "South Asia",
+   "national_government": [
+    "Mahapola Higher Education Scholarship",
+    "UGC bursaries"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 9,
+   "country": "China",
+   "region": "East Asia",
+   "national_government": [
+    "CSC Chinese Government Scholarship"
+   ],
+   "state_provincial": [
+    "Provincial / municipal govt scholarships (e.g. Beijing, Shanghai, Zhejiang)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Schwarzman (Tsinghua)",
+    "Yenching Academy (PKU)",
+    "university awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD",
+    "Fellowship"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 10,
+   "country": "Japan",
+   "region": "East Asia",
+   "national_government": [
+    "MEXT (incl. College of Technology / Kosen, UG, Masters, PhD)",
+    "JASSO"
+   ],
+   "state_provincial": [
+    "Prefectural / city awards (vary)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Waseda / Keio / Ritsumeikan APU tuition waivers"
+   ],
+   "levels": [
+    "ADP/Associate",
+    "Undergraduate",
+    "Masters",
+    "PhD",
+    "Fellowship"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 11,
+   "country": "Mongolia",
+   "region": "East Asia",
+   "national_government": [
+    "Mongolian Government Scholarship (inbound, for foreign students)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 12,
+   "country": "North Korea",
+   "region": "East Asia",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 13,
+   "country": "South Korea",
+   "region": "East Asia",
+   "national_government": [
+    "Global Korea Scholarship (GKS)"
+   ],
+   "state_provincial": [
+    "City / provincial awards (vary)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "KAIST / SNU / POSTECH / Yonsei scholarships"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 14,
+   "country": "Taiwan",
+   "region": "East Asia",
+   "national_government": [
+    "Taiwan Scholarship (MOE)",
+    "ICDF"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "University scholarships (e.g. NTU)"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 15,
+   "country": "Brunei",
+   "region": "Southeast Asia",
+   "national_government": [
+    "Brunei Government scholarships (UBD)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 16,
+   "country": "Cambodia",
+   "region": "Southeast Asia",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 17,
+   "country": "Indonesia",
+   "region": "Southeast Asia",
+   "national_government": [
+    "Kemitraan Negara Berkembang (KNB)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "University awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 18,
+   "country": "Laos",
+   "region": "Southeast Asia",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 19,
+   "country": "Malaysia",
+   "region": "Southeast Asia",
+   "national_government": [
+    "Malaysia International Scholarship (MIS)"
+   ],
+   "state_provincial": [
+    "State foundations (mostly domestic)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Monash Malaysia / Taylor's awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 20,
+   "country": "Myanmar",
+   "region": "Southeast Asia",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 21,
+   "country": "Philippines",
+   "region": "Southeast Asia",
+   "national_government": [
+    "DOST-SEI scholarships",
+    "CHED scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Ateneo / UP Diliman awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 22,
+   "country": "Singapore",
+   "region": "Southeast Asia",
+   "national_government": [
+    "SINGA (PhD)",
+    "ASEAN Scholarship (ASEAN nationals only)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "NUS / NTU graduate scholarships"
+   ],
+   "levels": [
+    "School",
+    "Undergraduate",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 23,
+   "country": "Thailand",
+   "region": "Southeast Asia",
+   "national_government": [
+    "TICA scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Chulalongkorn / AIT scholarships"
+   ],
+   "levels": [
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 24,
+   "country": "Timor-Leste",
+   "region": "Southeast Asia",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 25,
+   "country": "Vietnam",
+   "region": "Southeast Asia",
+   "national_government": [
+    "Vietnam Government Scholarship (inbound)",
+    "Project 322 (outbound)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 26,
+   "country": "Kazakhstan",
+   "region": "Central Asia",
+   "national_government": [
+    "Bolashak International Scholarship (outbound)",
+    "Govt scholarships for foreigners"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Nazarbayev University funding"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 27,
+   "country": "Kyrgyzstan",
+   "region": "Central Asia",
+   "national_government": [
+    "Kyrgyz Government scholarship (inbound)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "AUCA scholarships"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 28,
+   "country": "Tajikistan",
+   "region": "Central Asia",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 29,
+   "country": "Turkmenistan",
+   "region": "Central Asia",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 30,
+   "country": "Uzbekistan",
+   "region": "Central Asia",
+   "national_government": [
+    "Presidential scholarships",
+    "El-Yurt Umidi (outbound)",
+    "quota for foreigners"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 31,
+   "country": "Armenia",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Armenian Government scholarship (inbound)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [
+    "American University of Armenia scholarships"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 32,
+   "country": "Azerbaijan",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "State Program on Education Abroad",
+    "SOFAZ scholarship"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [
+    "ADA University scholarships"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 33,
+   "country": "Bahrain",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Crown Prince International Scholarship Program (CPISP)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "University of Bahrain awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 34,
+   "country": "Georgia",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Georgian Government scholarship (Ministry of Education)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 35,
+   "country": "Iran",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Iranian Government scholarships for foreign students"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Sharif / Tehran university awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 36,
+   "country": "Iraq",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "HCED scholarships (outbound)",
+    "inbound govt scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 37,
+   "country": "Israel",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Israeli Govt scholarships for foreign students"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Technion / Hebrew Univ. / Tel Aviv Univ. awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 38,
+   "country": "Jordan",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Jordanian Govt scholarships (Ministry of Higher Education)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "University of Jordan / PSUT awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 39,
+   "country": "Kuwait",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Kuwait Govt scholarships (outbound for Kuwaitis)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Kuwait University awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 40,
+   "country": "Lebanon",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Lebanese Govt / CNRS-L grants"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "AUB / LAU financial aid and merit awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 41,
+   "country": "Oman",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Sultan Qaboos Higher Education Program",
+    "Omani Govt scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Sultan Qaboos University awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 42,
+   "country": "Palestine",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Ministry of Education scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Birzeit University awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 43,
+   "country": "Qatar",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Qatar govt scholarships (limited)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Education City / HBKU scholarships"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 44,
+   "country": "Saudi Arabia",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Ministry of Education scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "KAUST Fellowship (MS/PhD)",
+    "KFUPM"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 45,
+   "country": "Syria",
+   "region": "West Asia / Middle East",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 46,
+   "country": "Turkey",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "Türkiye Burslari (YTB)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Koç / Sabancı university scholarships"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 47,
+   "country": "United Arab Emirates",
+   "region": "West Asia / Middle East",
+   "national_government": [
+    "UAE federal scholarships (limited)"
+   ],
+   "state_provincial": [
+    "Emirate-level schemes (vary)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "MBZUAI (MSc/PhD)",
+    "Khalifa University",
+    "NYU Abu Dhabi aid"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 48,
+   "country": "Yemen",
+   "region": "West Asia / Middle East",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 49,
+   "country": "Albania",
+   "region": "Europe",
+   "national_government": [
+    "Albanian Government scholarships for foreign students"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 50,
+   "country": "Andorra",
+   "region": "Europe",
+   "national_government": [
+    "Andorran Govt study grants (residents)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 51,
+   "country": "Austria",
+   "region": "Europe",
+   "national_government": [
+    "OeAD scholarships (Ernst Mach etc.)"
+   ],
+   "state_provincial": [
+    "Provincial support (vary)"
+   ],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "University merit awards"
+   ],
+   "levels": [
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 52,
+   "country": "Belarus",
+   "region": "Europe",
+   "national_government": [
+    "Belarus Govt scholarship (inbound)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 53,
+   "country": "Belgium",
+   "region": "Europe",
+   "national_government": [
+    "ARES (French Community)",
+    "VLIR-UOS (Flemish)"
+   ],
+   "state_provincial": [
+    "Community-level (Flanders / Wallonia)"
+   ],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "University awards"
+   ],
+   "levels": [
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 54,
+   "country": "Bosnia and Herzegovina",
+   "region": "Europe",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 55,
+   "country": "Bulgaria",
+   "region": "Europe",
+   "national_government": [
+    "Bulgarian Government Scholarships (Ministry of Education)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 56,
+   "country": "Croatia",
+   "region": "Europe",
+   "national_government": [
+    "Croatian Government scholarships (Ministry of Science & Education)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 57,
+   "country": "Cyprus",
+   "region": "Europe",
+   "national_government": [
+    "Cyprus State Scholarships Foundation (IKYK)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 58,
+   "country": "Czechia",
+   "region": "Europe",
+   "national_government": [
+    "Czech Government Scholarship (developing countries programme)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [
+    "Visegrad Fund scholarships (regional)"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 59,
+   "country": "Denmark",
+   "region": "Europe",
+   "national_government": [
+    "Danish Government Scholarships (limited)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "DTU / Copenhagen scholarships"
+   ],
+   "levels": [
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 60,
+   "country": "Estonia",
+   "region": "Europe",
+   "national_government": [
+    "Dora Plus",
+    "Estonian Govt scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 61,
+   "country": "Finland",
+   "region": "Europe",
+   "national_government": [
+    "Finnish national agency programmes (limited)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "University of Helsinki / Aalto scholarships"
+   ],
+   "levels": [
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 62,
+   "country": "France",
+   "region": "Europe",
+   "national_government": [
+    "Eiffel Excellence",
+    "French Embassy scholarships"
+   ],
+   "state_provincial": [
+    "Regional council grants (vary)"
+   ],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "Sciences Po / HEC foundation aid"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 63,
+   "country": "Germany",
+   "region": "Europe",
+   "national_government": [
+    "DAAD scholarships"
+   ],
+   "state_provincial": [
+    "Landesstipendien (state-level, vary)"
+   ],
+   "international_multilateral": [
+    "Erasmus+ exchange"
+   ],
+   "private_university_donor": [
+    "Deutschlandstipendium",
+    "political-foundation scholarships (KAS, FES)"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD",
+    "Fellowship"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 64,
+   "country": "Greece",
+   "region": "Europe",
+   "national_government": [
+    "IKY State Scholarships Foundation",
+    "Greek Govt scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [
+    "Onassis Foundation scholarships"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 65,
+   "country": "Hungary",
+   "region": "Europe",
+   "national_government": [
+    "Stipendium Hungaricum"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "University awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 66,
+   "country": "Iceland",
+   "region": "Europe",
+   "national_government": [
+    "Icelandic Govt scholarships (Icelandic-language students)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 67,
+   "country": "Ireland",
+   "region": "Europe",
+   "national_government": [
+    "Government of Ireland International Education Scholarship"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "Trinity / UCD Global Excellence"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 68,
+   "country": "Italy",
+   "region": "Europe",
+   "national_government": [
+    "Italian Government (MAECI) Scholarships"
+   ],
+   "state_provincial": [
+    "Regional DSU scholarships (e.g. ER.GO, DiSCo)"
+   ],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "Bocconi / Politecnico merit awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 69,
+   "country": "Kosovo",
+   "region": "Europe",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 70,
+   "country": "Latvia",
+   "region": "Europe",
+   "national_government": [
+    "State Education Development Agency (VIAA) scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 71,
+   "country": "Liechtenstein",
+   "region": "Europe",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 72,
+   "country": "Lithuania",
+   "region": "Europe",
+   "national_government": [
+    "Lithuanian State scholarship",
+    "Govt scholarships for foreigners"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 73,
+   "country": "Luxembourg",
+   "region": "Europe",
+   "national_government": [
+    "CEDIES study grants (residents)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [
+    "University of Luxembourg excellence awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 74,
+   "country": "Malta",
+   "region": "Europe",
+   "national_government": [
+    "Malta Government Scholarship Scheme (MGSS)",
+    "Endeavour Scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 75,
+   "country": "Moldova",
+   "region": "Europe",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 76,
+   "country": "Monaco",
+   "region": "Europe",
+   "national_government": [
+    "Monaco Govt study grants (Monegasque students)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 77,
+   "country": "Montenegro",
+   "region": "Europe",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 78,
+   "country": "Netherlands",
+   "region": "Europe",
+   "national_government": [
+    "Holland Scholarship (Nuffic)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "UvA / Utrecht / Leiden / TU Delft excellence awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 79,
+   "country": "North Macedonia",
+   "region": "Europe",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 80,
+   "country": "Norway",
+   "region": "Europe",
+   "national_government": [
+    "Quota Scheme (eligible countries only)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "University-specific awards",
+    "PhD posts are salaried"
+   ],
+   "levels": [
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 81,
+   "country": "Poland",
+   "region": "Europe",
+   "national_government": [
+    "NAWA programmes"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "University awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 82,
+   "country": "Portugal",
+   "region": "Europe",
+   "national_government": [
+    "Camões Institute scholarships",
+    "FCT doctoral grants"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [
+    "Univ. of Lisbon / Porto excellence awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 83,
+   "country": "Romania",
+   "region": "Europe",
+   "national_government": [
+    "Romanian Government Scholarships (Ministry of Education)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 84,
+   "country": "Russia",
+   "region": "Europe",
+   "national_government": [
+    "Russian Government Scholarship (quota)"
+   ],
+   "state_provincial": [
+    "Regional university quotas"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "University awards"
+   ],
+   "levels": [
+    "Undergraduate",
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 85,
+   "country": "San Marino",
+   "region": "Europe",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 86,
+   "country": "Serbia",
+   "region": "Europe",
+   "national_government": [
+    "Serbian Government scholarships (inbound)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 87,
+   "country": "Slovakia",
+   "region": "Europe",
+   "national_government": [
+    "National Scholarship Programme of the Slovak Republic (SAIA)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 88,
+   "country": "Slovenia",
+   "region": "Europe",
+   "national_government": [
+    "Ad futura scholarships",
+    "Slovenian Govt scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ programme country"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 89,
+   "country": "Spain",
+   "region": "Europe",
+   "national_government": [
+    "MAEC-AECID scholarships"
+   ],
+   "state_provincial": [
+    "Regional govt grants (vary)"
+   ],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "IE / ESADE merit aid"
+   ],
+   "levels": [
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 90,
+   "country": "Sweden",
+   "region": "Europe",
+   "national_government": [
+    "Swedish Institute Scholarships for Global Professionals"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus Mundus Joint Masters (EU-funded)"
+   ],
+   "private_university_donor": [
+    "Lund (LUMEN), KTH and other university scholarships"
+   ],
+   "levels": [
+    "Masters",
+    "PhD"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 91,
+   "country": "Switzerland",
+   "region": "Europe",
+   "national_government": [
+    "Swiss Government Excellence Scholarships"
+   ],
+   "state_provincial": [
+    "Cantonal grants (vary)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "ETH Excellence Scholarship (ESOP)"
+   ],
+   "levels": [
+    "Masters",
+    "PhD",
+    "Fellowship"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 92,
+   "country": "Ukraine",
+   "region": "Europe",
+   "national_government": [
+    "Ukrainian Govt scholarships (inbound)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Erasmus+ partner country (verify)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 93,
+   "country": "United Kingdom",
+   "region": "Europe",
+   "national_government": [
+    "Chevening",
+    "Commonwealth Scholarships (CSC)"
+   ],
+   "state_provincial": [
+    "Devolved govt schemes (Scotland/Wales) - verify"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Gates Cambridge",
+    "Rhodes & Clarendon (Oxford)",
+    "university awards"
+   ],
+   "levels": [
+    "School",
+    "Undergraduate",
+    "Masters",
+    "PhD",
+    "Fellowship"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 94,
+   "country": "Vatican City",
+   "region": "Europe",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Pontifical university scholarships (e.g. Gregorian)"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 95,
+   "country": "Algeria",
+   "region": "Africa",
+   "national_government": [
+    "Algerian Govt scholarships (inbound for African/Arab students)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 96,
+   "country": "Angola",
+   "region": "Africa",
+   "national_government": [
+    "INAGBE scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 97,
+   "country": "Benin",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 98,
+   "country": "Botswana",
+   "region": "Africa",
+   "national_government": [
+    "Govt of Botswana sponsorship (Dept. of Tertiary Education Financing)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [
+    "University of Botswana awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 99,
+   "country": "Burkina Faso",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 100,
+   "country": "Burundi",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 101,
+   "country": "Cabo Verde",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 102,
+   "country": "Cameroon",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 103,
+   "country": "Central African Republic",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 104,
+   "country": "Chad",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 105,
+   "country": "Comoros",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 106,
+   "country": "Congo (Republic)",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 107,
+   "country": "DR Congo",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 108,
+   "country": "Côte d'Ivoire",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 109,
+   "country": "Djibouti",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 110,
+   "country": "Egypt",
+   "region": "Africa",
+   "national_government": [
+    "Egyptian Govt / Al-Azhar scholarships for foreign students"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [
+    "E-JUST scholarships"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 111,
+   "country": "Equatorial Guinea",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 112,
+   "country": "Eritrea",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 113,
+   "country": "Eswatini",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 114,
+   "country": "Ethiopia",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 115,
+   "country": "Gabon",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 116,
+   "country": "Gambia",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 117,
+   "country": "Ghana",
+   "region": "Africa",
+   "national_government": [
+    "Ghana Scholarships Secretariat",
+    "GETFund"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 118,
+   "country": "Guinea",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 119,
+   "country": "Guinea-Bissau",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 120,
+   "country": "Kenya",
+   "region": "Africa",
+   "national_government": [
+    "HELB bursaries",
+    "Kenya Presidential scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 121,
+   "country": "Lesotho",
+   "region": "Africa",
+   "national_government": [
+    "NMDS bursaries"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 122,
+   "country": "Liberia",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 123,
+   "country": "Libya",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 124,
+   "country": "Madagascar",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 125,
+   "country": "Malawi",
+   "region": "Africa",
+   "national_government": [
+    "HELSB student loans"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 126,
+   "country": "Mali",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 127,
+   "country": "Mauritania",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 128,
+   "country": "Mauritius",
+   "region": "Africa",
+   "national_government": [
+    "Mauritius Laureate Scheme",
+    "TEC scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 129,
+   "country": "Morocco",
+   "region": "Africa",
+   "national_government": [
+    "AMCI scholarships (inbound for foreign students)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 130,
+   "country": "Mozambique",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 131,
+   "country": "Namibia",
+   "region": "Africa",
+   "national_government": [
+    "NSFAF funding"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 132,
+   "country": "Niger",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 133,
+   "country": "Nigeria",
+   "region": "Africa",
+   "national_government": [
+    "TETFund",
+    "PTDF overseas scholarships",
+    "Bilateral Education Agreement (BEA)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 134,
+   "country": "Rwanda",
+   "region": "Africa",
+   "national_government": [
+    "Rwandan Govt scholarships (via Ministry of Education / HEC)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 135,
+   "country": "São Tomé and Príncipe",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 136,
+   "country": "Senegal",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 137,
+   "country": "Seychelles",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 138,
+   "country": "Sierra Leone",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 139,
+   "country": "Somalia",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 140,
+   "country": "South Africa",
+   "region": "Africa",
+   "national_government": [
+    "NSFAS",
+    "NRF postgraduate funding"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [
+    "Mandela Rhodes Scholarships"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 141,
+   "country": "South Sudan",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 142,
+   "country": "Sudan",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 143,
+   "country": "Tanzania",
+   "region": "Africa",
+   "national_government": [
+    "HESLB loans",
+    "Tanzanian Govt scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 144,
+   "country": "Togo",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 145,
+   "country": "Tunisia",
+   "region": "Africa",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 146,
+   "country": "Uganda",
+   "region": "Africa",
+   "national_government": [
+    "Higher Education Students Financing Board (HESFB) loans"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 147,
+   "country": "Zambia",
+   "region": "Africa",
+   "national_government": [
+    "Higher Education Loans & Scholarships Board (HELSB)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 148,
+   "country": "Zimbabwe",
+   "region": "Africa",
+   "national_government": [
+    "Presidential Scholarship"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "Mastercard Foundation Scholars (African nationals)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 149,
+   "country": "Canada",
+   "region": "North America",
+   "national_government": [
+    "Vanier CGS (PhD)"
+   ],
+   "state_provincial": [
+    "Ontario Graduate Scholarship",
+    "Quebec PBEEE (FRQ)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Lester B. Pearson (UofT)",
+    "UBC International Leader of Tomorrow"
+   ],
+   "levels": [
+    "ADP/Associate",
+    "Undergraduate",
+    "Masters",
+    "PhD",
+    "Fellowship"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 150,
+   "country": "United States",
+   "region": "North America",
+   "national_government": [
+    "Fulbright Foreign Student Program",
+    "Humphrey Fellowship"
+   ],
+   "state_provincial": [
+    "State university tuition waivers / assistantships (vary by state)"
+   ],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Knight-Hennessy (Stanford)",
+    "need-based aid at top private universities"
+   ],
+   "levels": [
+    "ADP/Associate",
+    "Undergraduate",
+    "Masters",
+    "PhD",
+    "Fellowship"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 151,
+   "country": "Mexico",
+   "region": "North America",
+   "national_government": [
+    "SECIHTI (ex-CONAHCYT) scholarships",
+    "AMEXCID Govt scholarships for foreigners"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [],
+   "private_university_donor": [
+    "Tec de Monterrey / UNAM awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 152,
+   "country": "Antigua and Barbuda",
+   "region": "Central America & Caribbean",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)",
+    "UWI regional awards"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 153,
+   "country": "Bahamas",
+   "region": "Central America & Caribbean",
+   "national_government": [
+    "Bahamas Govt scholarships (Ministry of Education)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 154,
+   "country": "Barbados",
+   "region": "Central America & Caribbean",
+   "national_government": [
+    "Barbados Scholarship & Exhibitions"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)",
+    "UWI regional awards"
+   ],
+   "private_university_donor": [
+    "UWI Cave Hill awards"
+   ],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 155,
+   "country": "Belize",
+   "region": "Central America & Caribbean",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 156,
+   "country": "Costa Rica",
+   "region": "Central America & Caribbean",
+   "national_government": [
+    "MICITT-CONICIT scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 157,
+   "country": "Cuba",
+   "region": "Central America & Caribbean",
+   "national_government": [
+    "Cuban Govt scholarships for foreign students"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 158,
+   "country": "Dominica",
+   "region": "Central America & Caribbean",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 159,
+   "country": "Dominican Republic",
+   "region": "Central America & Caribbean",
+   "national_government": [
+    "MESCYT scholarships"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "unverified_general_knowledge"
+  },
+  {
+   "id": 160,
+   "country": "El Salvador",
+   "region": "Central America & Caribbean",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 161,
+   "country": "Grenada",
+   "region": "Central America & Caribbean",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 162,
+   "country": "Guatemala",
+   "region": "Central America & Caribbean",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 163,
+   "country": "Haiti",
+   "region": "Central America & Caribbean",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 164,
+   "country": "Honduras",
+   "region": "Central America & Caribbean",
+   "national_government": [],
+   "state_provincial": [],
+   "international_multilateral": [
+    "OAS Academic Scholarships (member states)"
+   ],
+   "private_university_donor": [],
+   "levels": [
+    "Varies"
+   ],
+   "verification": "none_listed_global_schemes_only"
+  },
+  {
+   "id": 165,
+   "country": "Jamaica",
+   "region": "Central America & Caribbean",
+   "national_government": [
+    "Jamaican Govt scholarships (Ministry of Education)"
+   ],
+   "state_provincial": [],
+   "international_multilateral": [
+    "
